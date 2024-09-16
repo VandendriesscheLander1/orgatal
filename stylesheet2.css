@@ -1,0 +1,23 @@
+body {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-image:  url(druppelsbolkopie.jpg);
+	text-decoration: none;
+}
+a {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+
+
+}
+a:hover {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bolder;
+	text-decoration: none;
+}
